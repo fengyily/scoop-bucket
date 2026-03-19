@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.0/shield-windows-386.zip",
+            "bin": [
+                "shield.exe"
+            ],
+            "hash": "33491a2e9fca7d8141bd5778771ca20f546c9a320e5790802686a61b1396c65d"
+        },
+        "64bit": {
+            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.0/shield-windows-amd64.zip",
+            "bin": [
+                "shield.exe"
+            ],
+            "hash": "c7678a6d64ab5d8fb6b8720016ac12131dd04978afa261f963c2688e9e042c67"
+        },
+        "arm64": {
+            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.0/shield-windows-arm64.zip",
+            "bin": [
+                "shield.exe"
+            ],
+            "hash": "e82e2d97c28e17a3b125865fd0907be2f29402da6c82efe51d80eb3025ca52c2"
+        }
+    },
+    "homepage": "https://github.com/fengyily/shield-cli",
+    "license": "Apache-2.0",
+    "description": "Shield CLI - Secure Tunnel Connector"
+}
