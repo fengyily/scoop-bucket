@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.4/shield-windows-amd64.zip",
+            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.5/shield-windows-amd64.zip",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "c672c563368f6806c03b3e0eec8c96bb92a4f4fe8b38e8bfee9e36b66eff59eb"
+            "hash": "a0e60e24da0d4604e3457d763fc8dd4385af28aef9618df254d630ec68b33005"
         },
         "arm64": {
-            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.4/shield-windows-arm64.zip",
+            "url": "https://github.com/fengyily/shield-cli/releases/download/v0.2.5/shield-windows-arm64.zip",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "4eea86f94f484d8996de3d2de75a40331924b5197ae0a493b84223d7f8b44605"
+            "hash": "c2face28e0dbbee3eb6cf30c549a2d298d6fb17ae0ad7f752074908da08cd8e0"
         }
     },
     "homepage": "https://github.com/fengyily/shield-cli",
