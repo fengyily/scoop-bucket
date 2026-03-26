@@ -6,14 +6,14 @@
             "bin": [
                 "shield.exe"
             ],
-            "hash": "44f5b5300a3ae2fa58f02ebff81eaace3d13384625b523b7c4727e1de2c3e0b4"
+            "hash": "e411fe75b400d2bcc2aaed81921bdb863f1234c96dd1e219e61d13917e5ffc0e"
         },
         "arm64": {
             "url": "https://github.com/fengyily/shield-cli/releases/download/v0.3.5/shield-windows-arm64.zip",
             "bin": [
                 "shield.exe"
             ],
-            "hash": "bed585cfad1a36838ef00be9da1abc94ccbae644c084c7c2511c2663c699a9c8"
+            "hash": "ef19c7b23cbff75e651ac3fc47774ac9545b90542fb6fc4c9f8e758a8a912fd6"
         }
     },
     "homepage": "https://github.com/fengyily/shield-cli",
